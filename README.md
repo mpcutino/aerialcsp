@@ -1,4 +1,4 @@
-# aerialcsp.github.io# AerialCSP Dataset
+# AerialCSP Dataset
 =====================
 
 ## Introduction

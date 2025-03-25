@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: AerialCSP Dataset
+description: A dataset to reduce the gap between aerial images in CSP plants and general purpose datasets.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman

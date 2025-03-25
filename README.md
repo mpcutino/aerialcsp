@@ -25,6 +25,11 @@ To use the AerialCSP dataset, simply download the data from the link below and f
 2. [Step 2: Describe how to use the dataset]
 3. [Step 3: Describe how to use the dataset]
 
+
+## Benchmarks
+
+Add benchmarks for bounding box detection and image segmentation using YOLOv11.
+
 ## Download the Dataset
 
 You can download the AerialCSP dataset from [link to external storage].

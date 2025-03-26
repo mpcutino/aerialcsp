@@ -1,0 +1,5 @@
+*.png
+*.svg
+
+!images/collage.png
+!images/modules_of_paper.png

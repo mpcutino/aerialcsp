@@ -45,6 +45,8 @@ We use YOLOv11 (https://docs.ultralytics.com/models/yolo11/) to provide some ben
 
 You can download the AerialCSP dataset from [the following link](https://example.com/download-link)
 
+AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/) 
+
 ## Citation
 
 If you use the AerialCSP dataset in your research, please cite the following paper:

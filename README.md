@@ -51,11 +51,13 @@ AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/)
 
 If you use the AerialCSP dataset in your research, please cite the following paper:
 
-```bibtex
-@article{perez2025reducing,
-  title={Reducing the gap between general purpose data and aerial images in concentrated solar power plants},
-  author={Pérez-Cutiño, Miguel-Angel and Valverde, Juan and Capitán, Jesús and Díaz-Bañez, José-Miguel},
-  journal={arXiv preprint (UPDATE)},
-  year={2025}
-}
+Pérez-Cutiño, M. A., Valverde, J., Capitán, J., Díaz-Bañez, J. M. (2025). Reducing the gap between general purpose data and aerial images in concentrated solar power plants.  *arXiv preprint*.
 
+<details>
+<summary><strong>BibTeX</strong></summary>
+@article{perez2025reducing,
+    title={Reducing the gap between general purpose data and aerial images in concentrated solar power plants},
+    author={Pérez-Cutiño, Miguel-Angel and Valverde, Juan and Capitán, Jesús and Díaz-Bañez, José-Miguel},  
+    journal={arXiv preprint},
+  year={2025}}
+</details>

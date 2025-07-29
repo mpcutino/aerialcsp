@@ -25,7 +25,7 @@ The AerialCSP dataset is available as a zip file containing the following struct
 
 1. A folder named `cfg_train_val_test_split` where we provide a standardized dataset split to ensure fair comparisons, using three txt files containing the names of the images on the traning, validation and test set.
 2. A folder named `images_and_masks` where we store the rendered images and segmentation masks.
-3. A folder named `labels_per_task` containing two additional folders. Each folder contains the labels for a specific task, that is, bounding box detection or image segmentation.
+3. A folder named `labels_per_task` containing two additional folders. Each folder contains the labels for a specific task, that is, bounding box detection or image segmentation in YOLO format.
 
 ## Benchmarks
 
@@ -43,7 +43,7 @@ We use YOLOv11 (https://docs.ultralytics.com/models/yolo11/) to provide some ben
 
 ## Download the Dataset
 
-You can download the AerialCSP dataset from [the following link](https://example.com/download-link)
+You can download the AerialCSP dataset from [the following link](https://uses0-my.sharepoint.com/:f:/g/personal/migpercut_alum_us_es/EioSpSmJBZBKlqZKWqIpoowBuYUbvNKg-_s_pOmzuyQ0KA?e=BCYjM9)
 
 AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/) 
 
@@ -51,6 +51,11 @@ AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/)
 
 If you use the AerialCSP dataset in your research, please cite the following paper:
 
-[ADD Citation]
+```bibtex
+@article{perez2025reducing,
+  title={Reducing the gap between general purpose data and aerial images in concentrated solar power plants},
+  author={Pérez-Cutiño, Miguel-Angel and Valverde, Juan and Capitán, Jesús and Díaz-Bañez, José-Miguel},
+  journal={arXiv preprint (UPDATE)},
+  year={2025}
+}
 
-(The download link and citation will be available once the paper is accepted).

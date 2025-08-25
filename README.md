@@ -43,7 +43,7 @@ We use YOLOv11 (https://docs.ultralytics.com/models/yolo11/) to provide some ben
 
 ## Download the Dataset
 
-You can download the AerialCSP dataset from [the following link](https://uses0-my.sharepoint.com/:f:/g/personal/migpercut_alum_us_es/EioSpSmJBZBKlqZKWqIpoowBuYUbvNKg-_s_pOmzuyQ0KA?e=BCYjM9)
+You can request AerialCSP dataset in the [the following link](https://forms.gle/TdohMZfyYp6R7qVy6)
 
 AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/) 
 

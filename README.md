@@ -47,6 +47,10 @@ You can download the AerialCSP dataset from [the following link](https://uses0-m
 
 AerialCSP is property of [Virtualmechanics S.L.](https://virtualmech.com/) 
 
+This repository and AerialCSP are intended for research and educational purposes only. For commercial use, please contact the authors.
+
+AerialCSP is realased under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
 ## Citation
 
 If you use the AerialCSP dataset in your research, please cite the following paper:
